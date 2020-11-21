@@ -17,4 +17,4 @@
 
 ### Article
 - [Having Fun with Clojurescript on Google Cloud Function](https://medium.com/zero-one-group/having-fun-with-clojurescript-on-google-cloud-function-8434d5f94d25)
-- [Build Covid-19 Dashboar using Dash and Deploy to Google Cloud Platform](https://dev.to/rubiagatra/build-covid-19-dashboard-using-dash-and-deploy-to-google-cloud-platform-1ogm)
+- [Build Covid-19 Dashboard using Dash and Deploy to Google Cloud Platform](https://dev.to/rubiagatra/build-covid-19-dashboard-using-dash-and-deploy-to-google-cloud-platform-1ogm)
