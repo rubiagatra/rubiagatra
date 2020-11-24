@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Clojure(Script), JavaScript, Python Project
-- 📖 In 2021, I will going deep into JavaScript, Elm, Clojure(Script)
+- 📖 In 2021, I will going deep into JavaScript, Elm, Haskell
 
 
 ### Talks
