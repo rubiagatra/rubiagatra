@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🚢 I already shipped my code on production using Python, Go, JavaScript, Clojure(Script).
-- 📖 In 2021, I will looking forward to learn Elm.
+- 📖 In 2021, I will looking forward to learn Elm and Haskell
 
 ### Talks
 
